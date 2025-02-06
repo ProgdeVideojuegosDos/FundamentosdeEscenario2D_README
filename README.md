@@ -14,10 +14,9 @@
 
 
 ## Contenido
-
-- [Introducción](#introducción)
+- [Juego de Plataformas 2D (Luis Canary)](#Tutotiales)
+- [Introducción Videojugo](#introducción)
 - [Código Fuente](#código-fuente)
-- [Planificación](#planificación)
 - [Autores](#autores)
 - [Copyright](#copyright)
 

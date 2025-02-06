@@ -1,6 +1,6 @@
 # FundamentosdeEscenario2D_README
 <p align="center">
-    <img src="https://nivelgamer.com/wp-content/uploads/2016/09/featured-10.jpg" alt="Logo" width=1200 height=300>
+    <img src="https://nivelgamer.com/wp-content/uploads/2016/09/featured-10.jpg" alt="Logo" width=1400 height=500>
 
   <p align="center">
     Programación de Videojuegos II

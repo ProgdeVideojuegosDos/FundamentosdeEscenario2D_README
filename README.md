@@ -21,11 +21,15 @@
 - [Copyright](#copyright)
 
 ## Juego de Plataformas 2D (Luis Canary)
-* Tutoriales
+* Tutoriales_1
   * > Lecciones 1-6
   * > <a href= "https://drive.google.com/drive/folders/1k06Cp22MZQSk5lEyx7JTrqco6aUr-Mgk?usp=sharing">Packages Unity</a>
   * > <a href= "https://drive.google.com/drive/folders/1i_XhSCDGK-9TRbX0tqHLyRPEXFPUvHHL?usp=sharing">Evidencia PDF</a>
 
+* Tutoriales_2
+  * > Lecciones 7-12
+  * > <a href= "https://drive.google.com/drive/folders/1vGU-EYlHhAiIwLG4T-fIUkFh4zidiWO_?usp=drive_link">Packages Unity</a>
+  * > <a href= "https://drive.google.com/drive/folders/1ASi_OkmslPRQzmRLARQvUChyzRZFU0hx?usp=sharing">Evidencia PDF</a>
 
 ## Introducción Videojugo (Munch Rush)
 

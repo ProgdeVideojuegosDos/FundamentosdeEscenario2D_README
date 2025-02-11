@@ -31,8 +31,8 @@
   * > <a href= "https://drive.google.com/drive/folders/1vGU-EYlHhAiIwLG4T-fIUkFh4zidiWO_?usp=drive_link">Packages Unity</a>
   * > <a href= "https://drive.google.com/drive/folders/1ASi_OkmslPRQzmRLARQvUChyzRZFU0hx?usp=sharing">Evidencia PDF</a>
 
-  * Tutoriales_1
-  * > Lecciones 1-6
+* Tutoriales_3
+  * > Lecciones 13-18
   * > <a href= "">Packages Unity</a>
   * > <a href= "">Evidencia PDF</a>
 

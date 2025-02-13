@@ -1,6 +1,6 @@
 # Fundamentos de Escenario 2D
 <p align="center">
-    <img src=" " alt="Logo" width=1400 height=500>
+    <img src="https://raw.githubusercontent.com/ProgdeVideojuegosDos/FundamentosdeEscenario2D_README/86d8c32adb18b8de350cdaf8a39b5a52c610a244/DALL%C2%B7E%202025-02-13%2004.57.28%20-%20A%202D%20pixel%20art%20scene%20depicting%20a%20dark%20and%20cold%20labyrinth.%20In%20the%20center%2C%20a%20brave%20young%20woman%20named%20Aria%20is%20running%2C%20collecting%20treasures%20such%20as%20coins.webp" alt="Logo" width=1400 height=500>
 </p>
 
 <p align="center">

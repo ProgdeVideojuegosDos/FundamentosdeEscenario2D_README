@@ -1,6 +1,6 @@
 # Fundamentos de Escenario 2D
 <p align="center">
-    <img src="https://drive.google.com/file/d/1QGDflhaR-hLQWkiW6eXXnFITuyZXTlZ2/view?usp=drive_link" alt="Logo" width=1400 height=500>
+    <img src=" " alt="Logo" width=1400 height=500>
 </p>
 
 <p align="center">

@@ -1,76 +1,101 @@
-# FundamentosdeEscenario2D_README
+# Fundamentos de Escenario 2D
 <p align="center">
     <img src="https://nivelgamer.com/wp-content/uploads/2016/09/featured-10.jpg" alt="Logo" width=1400 height=500>
+</p>
 
-  <p align="center">
+<p align="center">
     Programación de Videojuegos II
     <br>
-    Unidad I: FUNDAMENTOS DE ESCENARIO 2D
-    <br>
+    Unidad I: **FUNDAMENTOS DE ESCENARIO 2D**
     <br>
     El alumno desarrollará la interfaz gráfica para el proyecto de videojuego en 2D.
     <br>
 </p>
 
+---
 
-## Contenido
-- [Juego de Plataformas 2D (Luis Canary)](#Tutotiales)
-- [Introducción Videojugo](#introducción)
-- [Código Fuente](#código-fuente)
-- [Autores](#autores)
-- [Copyright](#copyright)
+## 📑 Contenido
+- [🎮 Juego de Plataformas 2D (Luis Canary)](#Tutotiales)
+- [🕹️ Introducción Videojuego](#introducción)
+- [💻 Código Fuente](#código-fuente)
+- [✍️ Autores](#autores)
+- [📜 Copyright](#copyright)
 
-## Juego de Plataformas 2D (Luis Canary)
-* Tutoriales_1
-  * > Lecciones 1-6
-  * > <a href= "https://drive.google.com/drive/folders/1k06Cp22MZQSk5lEyx7JTrqco6aUr-Mgk?usp=sharing">Packages Unity</a>
-  * > <a href= "https://drive.google.com/drive/folders/1i_XhSCDGK-9TRbX0tqHLyRPEXFPUvHHL?usp=sharing">Evidencia PDF</a>
+---
 
-* Tutoriales_2
-  * > Lecciones 7-12
-  * > <a href= "https://drive.google.com/drive/folders/1vGU-EYlHhAiIwLG4T-fIUkFh4zidiWO_?usp=drive_link">Packages Unity</a>
-  * > <a href= "https://drive.google.com/drive/folders/1ASi_OkmslPRQzmRLARQvUChyzRZFU0hx?usp=sharing">Evidencia PDF</a>
+## 🎮 Juego de Plataformas 2D (Luis Canary)
+### Tutoriales_1
+- > Lecciones 1-6
+- > [📦 Packages Unity](https://drive.google.com/drive/folders/1k06Cp22MZQSk5lEyx7JTrqco6aUr-Mgk?usp=sharing)
+- > [📄 Evidencia PDF](https://drive.google.com/drive/folders/1i_XhSCDGK-9TRbX0tqHLyRPEXFPUvHHL?usp=sharing)
 
-* Tutoriales_3
-  * > Lecciones 13-18
-  * > <a href= "https://drive.google.com/drive/folders/1_Ko23kFziXTmc4YYHmn_fIzyJoAX2A4f?usp=drive_link">Packages Unity</a>
-  * > <a href= "https://drive.google.com/drive/folders/1FEJg4XXS0vIngkHmW8yhad-lU9TWO9Rx?usp=drive_link">Evidencia PDF</a>
+### Tutoriales_2
+- > Lecciones 7-12
+- > [📦 Packages Unity](https://drive.google.com/drive/folders/1vGU-EYlHhAiIwLG4T-fIUkFh4zidiWO_?usp=drive_link)
+- > [📄 Evidencia PDF](https://drive.google.com/drive/folders/1ASi_OkmslPRQzmRLARQvUChyzRZFU0hx?usp=sharing)
 
-## Introducción Videojugo (Munch Rush)
+### Tutoriales_3
+- > Lecciones 13-18
+- > [📦 Packages Unity](https://drive.google.com/drive/folders/1_Ko23kFziXTmc4YYHmn_fIzyJoAX2A4f?usp=drive_link)
+- > [📄 Evidencia PDF](https://drive.google.com/drive/folders/1FEJg4XXS0vIngkHmW8yhad-lU9TWO9Rx?usp=drive_link)
 
+---
 
-- Clasificación
-• Tipo de videojuegos PEGI
-● Categoría A (para todo público)
-● Usuarios entusiastas del PacMan 
-● Usuarios de juegos casuales
+## 🕹️ Introducción Videojuego (Treasure Escape)
 
-- Género 
+### 🏷️ Clasificación
+- **Tipo de videojuegos**: PEGI
+- **Categoría**: A (para todo público)
+- **Usuarios recomendados**:
+  - Usuarios entusiastas del PacMan
+  - Usuarios de juegos casuales
 
+### 🎮 Género
+- Aventura
 
-- Personajes
+### 👥 Personajes
+- **Aria**: Aventurera recolectora de tesoros.
+- **Dragones**: Enemigos que quieren evitar que los tesoros sean robados.
 
+### 🌍 Escenario
+- Laberinto de roca con dos salidas, solo una es la correcta para poder continuar.
 
-- Escenario
+### 📖 Historia
+En lo más profundo de un laberinto antiguo, se esconde un tesoro legendario que solo los más valientes pueden reclamar. Aria, una audaz aventurera, ha decidido desafiar a los dragones guardianes y aventurarse en su interior para recolectar riquezas y encontrar la salida.
 
+Pero el camino no será fácil. Dragones despiertos patrullan los pasillos en busca de intrusos, y si atrapan a Aria, perderá una vida. Su misión es recolectar:
+- Monedas de oro (3 puntos)
+- Diamantes (5 puntos)
+- Un **Dragón de Cristal** (25 puntos), una rara estatua mística que encierra el poder de los antiguos dragones.
 
-- Historia
+El mayor desafío no es solo esquivar a los dragones y recolectar tesoros, sino encontrar la salida correcta. Solo una llevará a la libertad y al siguiente nivel, mientras que la otra la obligará a reiniciar su aventura desde cero.
 
+### 📜 Reglas de Juego
+- **Movimiento**: Aria puede moverse en todas las direcciones dentro del laberinto.
+- **Dragones**: Patrullan el laberinto. Si Aria choca con uno, pierde una vida.
+- **Vidas**: Aria tiene tres vidas. Si las pierde todas, deberá empezar de nuevo.
+- **Salidas**: Al final del laberinto hay dos caminos:
+  - Uno lleva al siguiente nivel, conservando los puntos obtenidos.
+  - El otro la obliga a reiniciar el nivel desde cero.
 
-- Reglas de Juego
+---
 
+## 💻 Código Fuente
 
-## Código Fuente
+* **VideoJuego**: Treasure Escape
+* **Laboratorio**: [📂 Repositorio](#)
 
-* VideoJuego
-  * > Munch Rush
-  * > Laboratorio
-  * > <a href= " ">Repositorio</a>
-## Planificación
+---
 
+## 🖼️ Planificación
 ![4337008]( )
 
-## Autor
-Karla Hernandez
-## Copyright
+---
+
+## ✍️ Autor
+**Karla Hernandez**
+
+---
+
+## 📜 Copyright
 Derechos Reservados 2022

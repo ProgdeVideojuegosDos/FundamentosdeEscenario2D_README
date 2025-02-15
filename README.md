@@ -24,22 +24,22 @@
 ---
 
 ## 🎮 Juego de Plataformas 2D (Luis Canary)
-### Tutoriales_1
+### Tutoriales_Parte1
 - > Lecciones 1-6
 - > [📦 Packages Unity](https://drive.google.com/drive/folders/1k06Cp22MZQSk5lEyx7JTrqco6aUr-Mgk?usp=sharing)
 - > [📄 Evidencia PDF](https://drive.google.com/drive/folders/1i_XhSCDGK-9TRbX0tqHLyRPEXFPUvHHL?usp=sharing)
 
-### Tutoriales_2
+### Tutoriales_Parte2
 - > Lecciones 7-12
 - > [📦 Packages Unity](https://drive.google.com/drive/folders/1vGU-EYlHhAiIwLG4T-fIUkFh4zidiWO_?usp=drive_link)
 - > [📄 Evidencia PDF](https://drive.google.com/drive/folders/1ASi_OkmslPRQzmRLARQvUChyzRZFU0hx?usp=sharing)
 
-### Tutoriales_3
+### Tutoriales_Parte3
 - > Lecciones 13-18
 - > [📦 Packages Unity](https://drive.google.com/drive/folders/1_Ko23kFziXTmc4YYHmn_fIzyJoAX2A4f?usp=drive_link)
 - > [📄 Evidencia PDF](https://drive.google.com/drive/folders/1FEJg4XXS0vIngkHmW8yhad-lU9TWO9Rx?usp=drive_link)
 
-### Tutoriales_4
+### Tutoriales_Parte4
 - > Lecciones 19-20
 - > [📦 Packages Unity](https://drive.google.com/drive/folders/1-G1LakVqjblidkihVA-pYCWBcGuMXEz3?usp=sharing)
 - > [📄 Evidencia PDF](https://drive.google.com/drive/folders/1Gl2J49ZPUG5Ub8no_nII05lOaQlR4jcK?usp=sharing)
@@ -51,7 +51,6 @@
 - **Tipo de videojuegos**: PEGI
 - **Categoría**: A (para todo público)
 - **Usuarios recomendados**:
-  - Usuarios entusiastas del PacMan
   - Usuarios de juegos casuales
 
 ### 🎮 Género
